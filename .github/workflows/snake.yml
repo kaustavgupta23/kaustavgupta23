@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   snake:
@@ -16,8 +16,9 @@ jobs:
     - name: Generate Snake Animation
       uses: Platane/snk@v2
       with:
-        # Change the GitHub username to your username
-        github_user: kaustavgupta23
+        github_user_name: kaustavgupta23
+        gif_out_path: dist/github-contribution-grid-snake.gif
+        svg_out_path: dist/github-contribution-grid-snake.svg
 
     - name: Commit files
       uses: EndBug/add-and-commit@v9
@@ -25,3 +26,14 @@ jobs:
         author_name: 'GitHub Actions'
         author_email: 'actions@github.com'
         message: 'Update snake animation'
+        add: 'dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg'
+        push: true
+        branch: main  # Change this to your default branch, e.g., 'main' or 'master'
+
+    - name: Deploy to GitHub Pages (if needed)
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        deploy_branch: gh-pages  # Branch where you want to deploy
+        folder: dist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
