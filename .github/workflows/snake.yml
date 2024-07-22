@@ -1,0 +1,27 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Generate Snake Animation
+      uses: Platane/snk@v2
+      with:
+        # Change the GitHub username to your username
+        github_user: kaustavgupta23
+
+    - name: Commit files
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: 'GitHub Actions'
+        author_email: 'actions@github.com'
+        message: 'Update snake animation'
