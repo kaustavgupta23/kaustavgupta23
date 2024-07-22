@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">👨‍💻 I'm interested in Web Development<br>🌱 Currently getting proficient in Data Structures<br>🌟 Check out my <a href="https://leetcode.com/u/kaustav23/" target="_blank">LeetCode</a> profile for my problem-solving progress <br> 💬 Visit my Portfolio: <a href="https://portfolio-kaustavgupta.vercel.app/" target="_blank">Portfolio</a> <br>📝 Follow My Tech Journey on <a href="https://x.com/kaustav_gupta23" target="_blank">Twitter</a></p>
+<p align="center">👨‍💻 I'm interested in Web Development<br>🌱 Currently getting proficient in Data Structures<br>🌟 Check out my <a href="https://leetcode.com/u/kaustav23/" target="_blank">LeetCode</a> profile for my problem-solving progress <br> 🌐 Visit my Portfolio: <a href="https://portfolio-kaustavgupta.vercel.app/" target="_blank">Portfolio</a> <br>📝 Follow My Tech Journey on <a href="https://x.com/kaustav_gupta23" target="_blank">Twitter</a></p>
 
 <div align="center">
   <a href="mailto:kaustavgupta2311@gmail.com">
