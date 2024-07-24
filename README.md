@@ -28,7 +28,7 @@
   </a>
 </div>
 
-<h3 align="center">🛠 Languages-Framework-Tools</h3>
+<h3 align="center">🛠 Languages-Framework-Tools 🛠</h3>
 
 ###
 
