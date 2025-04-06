@@ -1,73 +1,15 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=FF5733&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kaustav+Gupta" alt="Typing SVG">
-</h1>
-
-###
-
-<h3 align="center">I am a Passionate WEB Developer from India</h3>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif"  />
-
-###
-
-<p align="center">👨‍💻 I'm interested in Web Development<br>🎯 Currently getting proficient in Data Structures<br>🌟 Check out my <a href="https://leetcode.com/u/kaustav23/" target="_blank">LeetCode</a> profile for my problem-solving progress <br> 🌐 Visit my Portfolio: <a href="https://portfolio-kaustavgupta.vercel.app/" target="_blank">Portfolio</a> <br>📝 Follow My Tech Journey on <a href="https://x.com/kaustav_gupta23" target="_blank">Twitter</a></p>
-
-<div align="center">
-  <a href="mailto:kaustavgupta2311@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/kaustav-gupta23/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/kaustav_gupta23">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo" />
-  </a>
-</div>
-
-<h3 align="center">🛠 Languages-Framework-Tools 🛠</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
+# 💫 About Me:
+💻 Learning Full Stack<br>✏️ JavaScript / React<br>📦 Ubuntu / vscode <br>🌱 Exploring new opportunities in tech!<br>💭 Ask me anything on Discord!<br>📌 Most active on Twitter
 
 
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=kaustavgupta23&theme=dark)](https://git.io/streak-stats)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MWRNwrkS8x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaustav-gupta23/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/kaustav_gupta23) 
 
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kaustavgupta23&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kaustavgupta23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustavgupta23&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
