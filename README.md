@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Learning Full Stack<br>✏️ JavaScript / React<br>📦 Ubuntu / vscode <br>🌱 Exploring new opportunities in tech!<br>💭 Ask me anything on Discord!<br>📌 Most active on Twitter
+💻 Learning Full Stack<br>✏️ JavaScript / React<br>📦 Ubuntu / vscode <br>🌱 Exploring new opportunities in tech!<br>💭 Ask me anything on Discord!<br>📌 Most active on [Twitter](https://x.com/kaustav_gupta23)
 
 
 ## 🌐 Socials:
